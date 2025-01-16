@@ -1,0 +1,19 @@
+
+body {
+    background-color: lightyellow;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: darkblue;
+}
